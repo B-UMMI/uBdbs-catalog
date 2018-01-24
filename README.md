@@ -33,7 +33,7 @@ last update 1/2018
 
 * [ISFinder](https://www-is.biotoul.fr/)
 
-## Transposons
+### Transposons
 
 * [Tn registry](http://transposon.lstmed.ac.uk/tn-registry)
 
