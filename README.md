@@ -28,6 +28,7 @@ last update 1/2018
 * [ENA phages](https://www.ebi.ac.uk/genomes/phage.html) - last update 5/2015
 * [NCBI phages](https://www.ncbi.nlm.nih.gov/genomes/GenomesGroup.cgi?taxid=10239&host=bacteria)
 * [ACLAME](http://aclame.ulb.ac.be/) - last update 8/2009
+* [PHASTER](http://phaster.ca/)
 
 ### Insertion sequences (ISs)
 
