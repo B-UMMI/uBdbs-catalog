@@ -40,6 +40,7 @@ last update 1/2018
 
 ## Resistance genes
 
+* [ARDB](https://ardb.cbcb.umd.edu/) - last update 7/2009 :-1:
 * [CARD](https://card.mcmaster.ca/)
 * [ResFinder](https://cge.cbs.dtu.dk/services/ResFinder/)
 
