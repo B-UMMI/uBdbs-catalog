@@ -42,6 +42,7 @@ last update 1/2018
 
 * [ARDB](https://ardb.cbcb.umd.edu/) - last update 7/2009 :-1:
 * [CARD](https://card.mcmaster.ca/)
+* [Resfams](http://www.dantaslab.org/resfams/) - last update 1/1015 (v1.2)
 * [ResFinder](https://cge.cbs.dtu.dk/services/ResFinder/)
 
 ## Virulence genes
