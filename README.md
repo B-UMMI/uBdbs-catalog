@@ -18,6 +18,7 @@ To be filled...
 * [NCBI refseq](ftp://ftp.ncbi.nlm.nih.gov/refseq/release/plasmid/) -
 last update 1/2018
 * [ACLAME](http://aclame.ulb.ac.be/) - last update 8/2009
+* [PlasmidProfiler] (http://plasmid-profiler.readthedocs.io/en/latest/) - last update 3/2017
 
 ### Integrative and conjugative elements (ICEs)
 
@@ -29,6 +30,7 @@ last update 1/2018
 * [NCBI phages](https://www.ncbi.nlm.nih.gov/genomes/GenomesGroup.cgi?taxid=10239&host=bacteria)
 * [ACLAME](http://aclame.ulb.ac.be/) - last update 8/2009
 * [PHASTER](http://phaster.ca/)
+* [PHAST](http://phast.wishartlab.com/) - last update 12/2016
 
 ### Insertion sequences (ISs)
 
@@ -37,6 +39,7 @@ last update 1/2018
 ### Transposons
 
 * [Tn registry](http://transposon.lstmed.ac.uk/tn-registry)
+* [ACLAME](http://aclame.ulb.ac.be/) - last update 8/2009
 
 ## Resistance genes
 
