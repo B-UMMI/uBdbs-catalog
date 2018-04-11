@@ -18,7 +18,7 @@ To be filled...
 * [NCBI refseq](ftp://ftp.ncbi.nlm.nih.gov/refseq/release/plasmid/) -
 last update 1/2018
 * [ACLAME](http://aclame.ulb.ac.be/) - last update 8/2009
-* [PlasmidProfiler] (http://plasmid-profiler.readthedocs.io/en/latest/) - last update 3/2017
+* [PlasmidProfiler](http://plasmid-profiler.readthedocs.io/en/latest/) - last update 3/2017
 
 ### Integrative and conjugative elements (ICEs)
 
