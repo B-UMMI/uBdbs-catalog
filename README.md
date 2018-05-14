@@ -52,3 +52,10 @@ last update 1/2018
 
 * [VFDB](http://www.mgc.ac.cn/VFs/)
 * [VirulenceFinder](https://cge.cbs.dtu.dk/services/VirulenceFinder/)
+
+## Bacterial Single-Copy Gene
+
+* [Campbell et al](http://www.pnas.org/content/110/14/5540.full)
+* [Rinke et al](http://www.nature.com/nature/journal/v499/n7459/full/nature12352.html)
+* [Seemann T](https://github.com/tseemann/barrnap)
+* [See Simão et al] (doi:10.1093/bioinformatics/btv351)
