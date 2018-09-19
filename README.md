@@ -48,6 +48,10 @@ last update 1/2018
 * [Resfams](http://www.dantaslab.org/resfams/) - last update 1/1015 (v1.2)
 * [ResFinder](https://cge.cbs.dtu.dk/services/ResFinder/)
 
+## Metal resistance databases
+
+* [BacMet](http://bacmet.biomedicine.gu.se/download_temporary.html)
+
 ## Virulence genes
 
 * [VFDB](http://www.mgc.ac.cn/VFs/)
