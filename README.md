@@ -41,6 +41,10 @@ last update 1/2018
 * [Tn registry](http://transposon.lstmed.ac.uk/tn-registry)
 * [ACLAME](http://aclame.ulb.ac.be/) - last update 8/2009
 
+### Ontologies
+
+* [CARD's draft Mobilome Ontology (MOBIO)](https://github.com/arpcard/mobio)
+
 ## Resistance genes
 
 * [ARDB](https://ardb.cbcb.umd.edu/) - last update 7/2009 :-1:
@@ -56,6 +60,7 @@ last update 1/2018
 
 * [VFDB](http://www.mgc.ac.cn/VFs/)
 * [VirulenceFinder](https://cge.cbs.dtu.dk/services/VirulenceFinder/)
+* [CARD's draft Virulence Ontology (VIRO)](https://github.com/arpcard/viro)
 
 ## Bacterial Single-Copy Gene
 
